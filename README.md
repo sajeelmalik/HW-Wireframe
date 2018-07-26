@@ -15,7 +15,7 @@
 
 # Image Preview of Finished Layout
 <!-- take a picture of the image and add it into the readme  -->
-![Finished Layout](Wireframe.jpg)
+![Finished Layout](https://raw.githubusercontent.com/sajeelmalik/HW-Wireframe/master/Wireframe.JPG)
 
 # Technology Used
 <!-- make a list of technology used -->
