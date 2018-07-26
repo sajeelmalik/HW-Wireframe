@@ -4,7 +4,7 @@
 
 
 * Design a wireframe layout of a webpage
-* Learn HTML and CSS formatting and layout operations using float and positioning tools
+* Learn and utilize HTML and CSS formatting and layout operations using float and positioning tools
 
 
 # Deployed Project Link
@@ -13,9 +13,9 @@
 [HW-Wireframe](https://sajeelmalik.github.io/HW-Wireframe/)
 
 
-# Image Preview
+# Image Preview of Finished Layout
 <!-- take a picture of the image and add it into the readme  -->
-![Finished Layout](path or link to image)
+![Finished Layout](Wireframe.jpg)
 
 # Technology Used
 <!-- make a list of technology used -->
@@ -70,7 +70,9 @@ Below is an example of the HTML5 sectioning utilized to create a section with a 
 # Learning points
 <!-- Learning points where you would write what you thought was helpful -->
 * margin auto is a useful tool to fix the main content in the center of a page
-* 
+* precedence is an important factor for CSS: styles defined later supersede the ones defined before
+* if the HTML defines a piece of text within a section and then as a &lt;p&gt;, then the CSS stylings for &lt;p&gt; will take precedence if they are defined after the section
+* floats provide a simple way to change the default flow that HTML webpages display
 
 
 # Author 
